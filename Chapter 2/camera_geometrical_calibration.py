@@ -6,11 +6,9 @@ written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measu
 to be released by Ohmsha, Ltd.
 
 - version 1.00 on 1st, April, 2022.
-  developed in Python 3.8.5 on ubuntu 20.04LTS,
-  on mouse computer H5-CML.
+  developed on Mouse Computer H5-CML with Ubuntu 20.04LTS.
 
-参考にしたプログラム
-https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
+Reference: https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
 '''
 
 import numpy as np
@@ -18,21 +16,19 @@ import cv2
 import glob
 from matplotlib import pyplot as plt
 
-# 終端条件の設定
+# termination criteria
 criteria = (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 30, 0.001)
 
-# 8x7チェッカーパターン座標位置の設定
+# prepare object points, like (0,0,0), (1,0,0), (2,0,0) ....,(6,5,0)
 objp = np.zeros((8*7,3), np.float32)
 objp[:,:2] = np.mgrid[0:8, 0:7].T.reshape(-1,2) * 20.0
 
-# 全ての画像に対するチェッカーパターン
-#   座標位置(3D / 2D)記録用配列
-objpoints = []
-imgpoints = []
+# Arrays to store object points and image points from all the images.
+objpoints = [] # 3d point in real world space
+imgpoints = [] # 2d points in image plane.
+# Array to store images with image points
 imgs = []
 
-# 幾何学的キャリブレーションの
-#   ターミナル出力
 def printResult(ret, mtx, dist):
     print("*** キャリブレーション結果 ***")
     print("画像上への再投影RMS = ", ret, " (画素)")
@@ -49,7 +45,6 @@ def saveIntrinsicParams(mtx, dist):
         f.write(dist[0][i])
     f.close()
 
-# 外部パラメータのターミナル出力
 def printVecs(rvec, tvec):
     R, _ = cv2.Rodrigues(rvec)
     print("回転行列 = \n", R)
