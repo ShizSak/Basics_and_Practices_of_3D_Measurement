@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 
 '''
-Camera calibration program
-オーム社「3D計測の基礎」掲載プログラム
-  著作者：坂本 静生
+Calibrate a camera geometrically, by the 8x7 checker patttern.
+written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measurement",
+to be released by Ohmsha, Ltd.
+
+- version 1.00 on 1st, April, 2022.
+  developed in Python 3.8.5 on ubuntu 20.04LTS,
+  on mouse computer H5-CML.
 
 参考にしたプログラム
 https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
-
-2021年10月10日 第1.00版リリース
 '''
 
 import numpy as np
