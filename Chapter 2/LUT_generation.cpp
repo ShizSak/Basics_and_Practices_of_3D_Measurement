@@ -2,7 +2,7 @@
 // written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measurement",
 // to be released by Ohmsha, Ltd.
 //
-// - version 0.97 on 23rd, August, 2021.
+// - version 1.00 on 1st, April, 2022.
 //   developed in Python 3.8.5 on ubuntu 20.04LTS,
 //   on mouse computer H5-CML.
 
