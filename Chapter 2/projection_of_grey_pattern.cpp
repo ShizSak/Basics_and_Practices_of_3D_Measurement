@@ -2,9 +2,9 @@
 // written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measurement",
 // to be released by Ohmsha, Ltd.
 //
-// - version 0.91 on 29th, June, 2021.
-//   developed in Python 3.8.5 on ubuntu 20.04LTS,
-//   on mouse computer H5-CML.
+// - version 1.00 on 1st, April, 2022.
+//   developed on Mouse Computer H5-CML with ubuntu 20.04LTS.
+
 
 #include <opencv2/opencv.hpp>
 
