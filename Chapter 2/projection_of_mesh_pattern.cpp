@@ -3,8 +3,8 @@
 // to be released by Ohmsha, Ltd.
 //
 // - version 0.91 on 8th, July, 2021.
-//   developed in Python 3.8.5 on ubuntu 20.04LTS,
-//   on mouse computer H5-CML.
+//   developed on Mouse Computer H5-CML with Ubuntu 20.04LTS.
+
 
 #include <opencv2/opencv.hpp>
 
