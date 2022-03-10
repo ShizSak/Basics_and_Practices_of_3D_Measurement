@@ -1,7 +1,7 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 
 '''
-カメラの幾何学的キャリブレーション
+Camera calibration program
 オーム社「3D計測の基礎」掲載プログラム
   著作者：坂本 静生
 
