@@ -3,8 +3,8 @@
 // to be released by Ohmsha, Ltd.
 //
 // - version 1.00 on 1st, April, 2022.
-//   developed in Python 3.8.5 on ubuntu 20.04LTS,
-//   on mouse computer H5-CML.
+//   developed on Mouse Computer H5-CML with ubuntu 20.04LTS.
+
 
 #include <fstream>
 #include <boost/program_options.hpp>
