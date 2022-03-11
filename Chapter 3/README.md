@@ -5,6 +5,17 @@
 このフォルダに置いてあるプログラムは、次のとおりです。詳細については本文を参照してください。
 
 ## 3.3節
+
++ USBインタフェース付きのPC
++ Raspberry Pi Zero WH
++ ST micro VL53L0X（TOFチップ）が搭載されたTOFセンサ
+
++ Raspberry Pi Zero WH用
+- Raspberry Pi OS: [https://www.raspberrypi.com/software/operating-systems/](https://www.raspberrypi.com/software/operating-systems/)
+- Python 3.8: [https://www.python.org/](https://www.python.org/)
+- VL53L0X-python: [https://github.com/pimoroni/VL53L0X-python](https://github.com/pimoroni/VL53L0X-python)
+- pigpio: [https://github.com/joan2937/pigpio](https://github.com/joan2937/pigpio)
+
 + リスト3.5: ```LiDAR.py```
 + リスト3.8: ```polar.py```
 + リスト3.10: ```radar.py```
