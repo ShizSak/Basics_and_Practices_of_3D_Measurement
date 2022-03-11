@@ -5,7 +5,9 @@
 
 「ゼロからわかる3次元計測」では、2章と3章で3次元計測を実践しています。
 + [2章 アクティブ型三角測量による3次元計測](https://github.com/ShizSak/Basics-of-3D-Measurement/tree/main/Chapter%202)
-+ [3章 LiDARを利用した3次元計測](https://github.com/ShizSak/Basics-of-3D-Measurement/tree/main/Chapter%203)
++ [3章 LiDARを使って手軽に3次元計測実験](https://github.com/ShizSak/Basics-of-3D-Measurement/tree/main/Chapter%203)
+
+なお、3.3節のプログラムは、竹久さまからご提供していただいています。
 
 # Basics of 3D Measurement ---Fundamentals and Practices of 3D Scanner and LiDAR---
 ## Shizuo Sakamoto, Ohm Ltd. This will release in May, 2022.
