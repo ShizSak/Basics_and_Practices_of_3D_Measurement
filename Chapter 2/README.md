@@ -19,7 +19,7 @@
 + boost 1.77.0: [https://www.boost.org/](https://www.boost.org/)
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
-上に示したmatplotlib-cppには、次のURLにあるscatter3()及びset_zlim()の機能を追加するパッチを適用する必要があります。
+上に示したmatplotlib-cppには、次のURLにあるset_zlim()関数及びscatter3()関数追加パッチを適用する必要があります。
 + [https://github.com/ShizSak/matplotlib-cpp-with-3D-Scatter-Plot](https://github.com/ShizSak/matplotlib-cpp-with-3D-Scatter-Plot)
 
 このフォルダに置いてあるプログラムは、次のとおりです。詳細については本文を参照してください。
