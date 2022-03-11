@@ -11,7 +11,6 @@
 
 # Basics of 3D Measurement ---Fundamentals and Practices of 3D Scanner and LiDAR---
 ## to be released in May, 2022.
-## Author: Shizuo Sakamoto
-## Ohm Ltd.
+## Author: Shizuo Sakamoto, Issuer: Ohm Ltd.
 
 Sorry for Japanese description only.
