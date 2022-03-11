@@ -30,12 +30,11 @@ imgpoints = [] # 2d points in image plane.
 imgs = []
 
 def printResult(ret, mtx, dist):
-    print("*** キャリブレーション結果 ***")
-    print("画像上への再投影RMS = ", ret, " (画素)")
-    print("カメラ内部パラメータ = \n", mtx)
-    print("レンズ歪 = \n", dist)
+    print("*** calibration result ***")
+    print("RMS of reprojection = ", ret, " (pixels)")
+    print("Camera matrix = \n", mtx)
+    print("Lens distortion = \n", dist)
 
-# 内部パラメータのファイル保存
 def saveIntrinsicParams(mtx, dist):
     f = open("intrinsicParams.dat", "wb")
     for i in range(3):
@@ -47,26 +46,22 @@ def saveIntrinsicParams(mtx, dist):
 
 def printVecs(rvec, tvec):
     R, _ = cv2.Rodrigues(rvec)
-    print("回転行列 = \n", R)
-    print("回転ベクトル = \n", rvec)
-    print("移動ベクトル = \n", tvec)
+    print("roation matrix     = \n", R)
+    print("translation vector = \n", tvec)
 
-# メイン関数
 if __name__ == '__main__':
     images = sorted(glob.glob('*.png'))
     if len(images) == 0:
-        print("エラー - 画像ファイルがありません")
+        print("error - no image file")
         exit(-1)
     elif len(images) < 10:
-        print("エラー - 十分な数の画像ファイルがありません")
+        print("error - not enough number of image files")
         exit(-1)
         
-    # 画像ファイルをひとつずつ処理
     for fname in images:
         img = cv2.imread(fname)
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-        # チェッカーパターン
         ret, corners = cv2.findChessboardCorners(gray, (8,7), None)
         if ret:
             objpoints.append(objp)
