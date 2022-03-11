@@ -29,7 +29,7 @@
 + リスト3.10: ```radar.py```
 
 ## 3.4節・3.5節
-3.4節では次の機材を用いて3次元計測を行います。
+3.4節・3.5節では次の機材を用いて3次元計測を行います。
 
 + USB3インタフェース付きのPC
 + Microsoft社 Azure Kinect DK（3次元計測装置）
@@ -40,7 +40,7 @@
 + Open3D 0.13: [https://www.open3d.org/](https://www.open3d.org/)
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
-3.4節に掲載するプログラムは、次のとおりです。
+3.4節では掲載プログラムはありません。3.5節に掲載するプログラムは、次のとおりです。
 + リスト3.22: [```extract_trajectory.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/extract_trajectory.py)
 
 以上
