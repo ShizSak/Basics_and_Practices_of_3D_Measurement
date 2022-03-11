@@ -10,6 +10,14 @@
 + Raspberry Pi Zero WH
 + ST micro VL53L0X（TOFチップ）が搭載されたTOFセンサ
 
++ PC用
+  - Ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
+  - Python 3.8: [https://www.python.org/](https://www.python.org/)
+  - NumPy 1.21.4: [https://numpy.org/](https://numpy.org/)
+  - matplotlib 3.5.0: [https://matplotlib.org/](https://matplotlib.org/)
+  - pandas 1.3.4: [https://pandas.pydata.org/](https://pandas.pydata.org/)
+  - Kivy 2.0.0: [https://kivy.org/](https://kivy.org/)
+
 + Raspberry Pi Zero WH用
   - Raspberry Pi OS: [https://www.raspberrypi.com/software/operating-systems/](https://www.raspberrypi.com/software/operating-systems/)
   - Python 3.8: [https://www.python.org/](https://www.python.org/)
