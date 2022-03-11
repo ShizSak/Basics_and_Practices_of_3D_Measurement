@@ -4,8 +4,8 @@
 このリポジトリには、オーム社から発売予定の「ゼロからわかる3次元計測」に掲載したサンプルプログラムを置いています。
 
 「ゼロからわかる3次元計測」では、2章と3章で3次元計測を実践しています。
-+ [2章 アクティブ型三角測量による3次元計測](https://github.com/ShizSak/Basics-of-3D-Measurement/tree/main/Chapter%202)
-+ [3章 LiDARを使って手軽に3次元計測実験](https://github.com/ShizSak/Basics-of-3D-Measurement/tree/main/Chapter%203)
++ [2章 アクティブ型三角測量による3次元計測](https://github.com/ShizSak/Basics_of_3D_Measurement/tree/main/Chapter%202)
++ [3章 LiDARを使って手軽に3次元計測実験](https://github.com/ShizSak/Basics_of_3D_Measurement/tree/main/Chapter%203)
 
 なお、3.3節のプログラムは、[竹久さま](https://github.com/aho1go)からご提供していただいています。
 
