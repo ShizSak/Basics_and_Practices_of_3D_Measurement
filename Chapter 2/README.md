@@ -1,7 +1,12 @@
 # 第2章 アクティブ型三角測量による3次元計測
+## 全体説明
+2章では次の機材を用いて、正弦波格子位相シフト法に基づいて3次元計測を行います。
++ USBインタフェースおよびHDMIインタフェース付きのPC（HDMIではなくDisplayPortやDVIなどでも可）
++ HDMIインタフェース付きのプロジェクタ（HDMIではなくDisplayPortやDVIなどでも可、PCと合わせること）
++ UVCに対応する、USBインタフェース付きのカメラ
 
-2章では次の機材を用いて、正弦波格子位相シフト法に基づいて3次元計測を行うためのプログラムです。この章では、ソフトウェアはOSSのみを用いています。次は本文で記載した、あるいは本文中のプログラムで直接呼び出すものを挙げています。必要に応じて、依存関係にあるOSSもインストールしてください。
-+ ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
+このフォルダには3次元計測を行うためのプログラムを置いてあります。これらのプログラムはOSSを活用していますので、適宜インストールしてください。次に、プログラムで直接呼び出すOSSに加え、使用するOSやアプリケーションを挙げています。必要に応じて、依存関係にあるOSSもインストールしてください。
++ Ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
 + Python 3.8: [https://www.python.org/](https://www.python.org/)
 + Numpy 1.21.1: [https://numpy.org/](https://numpy.org/)
 + OpenCV 4.5: [https://opencv.org/](https://opencv.org/)
@@ -12,15 +17,10 @@
 + boost 1.77.0: [https://www.boost.org/](https://www.boost.org/)
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
-ただし、matplotlib-cppには、次のURLにある機能拡張パッチを適用する必要があります。
+なお、上に示したmatplotlib-cppには、次のURLにある機能拡張パッチを適用する必要があります。
 + [https://github.com/ShizSak/matplotlib-cpp-with-3D-Scatter-Plot](https://github.com/ShizSak/matplotlib-cpp-with-3D-Scatter-Plot)
 
-用いるハードウェアは次のとおりです。
-+ USBインタフェースおよびHDMIインタフェース付きのPC（HDMIではなくDisplayPortやDVIなどでも可）
-+ HDMIインタフェース付きのプロジェクタ（HDMIではなくDisplayPortやDVIなどでも可、PCと合わせること）
-+ UVCに対応する、USBインタフェース付きのカメラ
-
-このフォルダにあるプログラムは、次のとおりです。詳細については本文を参照してください。
+このフォルダに置いてあるプログラムは、次のとおりです。詳細については本文を参照してください。
 
 ## 2.2節
 - リスト2.2: ```projection_of_mesh_pattern.cpp```
