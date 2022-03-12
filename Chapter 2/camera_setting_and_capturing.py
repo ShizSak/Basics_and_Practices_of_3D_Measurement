@@ -6,7 +6,7 @@ written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measu
 to be released by Ohmsha, Ltd.
 
 - version 1.00 on 1st, April, 2022.
-  developed on Mouse Computer H5-CML with Ubuntu 20.04LTS,
+  developed on Mouse Computer H5-CML, Ubuntu 20.04LTS,
 
   Camera properties for video capture are at:
   https://docs.opencv.org/3.4/d4/d15/group__videoio__flags__base.html#gaeb8dd9c89c10a5c63c139bf7c4f5704d
