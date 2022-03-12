@@ -6,7 +6,7 @@ written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measu
 to be released by Ohmsha, Ltd.
 
 - version 1.00 on 1st, April, 2022.
-  developed on Mouse Computer H5-CML with Ubuntu 20.04LTS.
+  developed on Mouse Computer H5-CML, Ubuntu 20.04LTS.
 
 Reference: https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html
 '''
