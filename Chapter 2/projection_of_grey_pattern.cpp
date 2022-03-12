@@ -3,7 +3,7 @@
 // to be released by Ohmsha, Ltd.
 //
 // - version 1.00 on 1st, April, 2022.
-//   developed on Mouse Computer H5-CML with ubuntu 20.04LTS.
+//   developed on Mouse Computer H5-CML, Ubuntu 20.04LTS.
 
 
 #include <opencv2/opencv.hpp>
