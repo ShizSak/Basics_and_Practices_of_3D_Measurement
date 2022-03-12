@@ -5,14 +5,14 @@ Set camera properties and capture images for calibration
 written by Shizuo Sakamoto as example in the book, titled as "Basics of 3D measurement",
 to be released by Ohmsha, Ltd.
 
-- version 0.97 on 30th, July, 2021.
-  developed in Python 3.8.5 with Kivy 2.0.0 on ubuntu 20.04LTS,
-  on mouse computer H5-CML.
+- version 1.00 on 1st, April, 2022.
+  developed on Mouse Computer H5-CML with Ubuntu 20.04LTS,
 
-  camera properties for video capture were referencing:
+  Camera properties for video capture are at:
   https://docs.opencv.org/3.4/d4/d15/group__videoio__flags__base.html#gaeb8dd9c89c10a5c63c139bf7c4f5704d
 
 '''
+
 
 import sys
 import os
