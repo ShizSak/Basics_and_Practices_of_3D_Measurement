@@ -22,7 +22,7 @@
 上に示したmatplotlib-cppには、次のURLにあるset_zlim()関数及びscatter3()関数追加パッチを適用する必要があります。
 + [https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot](https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter-Plot)
 
-このフォルダに置いてあるプログラムは、次のとおりです。詳細については本文を参照してください。
+このフォルダに置いてあるサンプルプログラムは、次のとおりです。詳細については本文を参照してください。
 
 ## 2.2節
 - リスト2.2: [```projection_of_mesh_pattern.cpp```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/3D_measurement.cpp)
