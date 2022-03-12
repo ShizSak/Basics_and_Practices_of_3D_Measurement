@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 
 '''
 Show a trajectory of the 3D scanner as result of integrating
@@ -6,9 +6,9 @@ RGB-D data sequence.
 written by Shizuo Sakamoto as example in the book, titled as
 "Basics of 3D measurement", to be released by Ohmsha, Ltd.
 
-- version 0.97 on 3rd, December, 2021.
-  developed in Python 3.8.5 with Kivy 2.0.0 on ubuntu 20.04LTS,
-  on mouse computer H5-CML.
+- version 1.00 on 1st, April, 2022.
+  developed on Mouse Computer H5-CML, Ubuntu 20.04LTS,
+  
 
   The code of read trajectory.log files came from:
   http://www.open3d.org/docs/0.13.0/tutorial/pipelines/rgbd_integration.html
@@ -52,3 +52,4 @@ if __name__ == '__main__':
         for x in traj:
             p = x.pose.tolist()
             print(p[0][3], ",", p[1][3], ",", p[2][3], ",255,255,255")
+# end of program
