@@ -4,6 +4,10 @@
 
 このフォルダに置いてあるプログラムは、次のとおりです。詳細については本文を参照してください。
 
+## 3.2節
++ [Intel RealSense L515 LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseL515-LEGO.stl)
++ [Intel RealSense L515 LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseL515-LEGO.stl)
+
 ## 3.3節
 3.3節では次の機材を用いて3次元計測を行います。
 
