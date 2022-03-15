@@ -5,7 +5,7 @@
 このフォルダに置いてあるプログラムとデータは、次のとおりです。詳細については本文を参照してください。
 
 ## 3.2節
-Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデータです。これらのデータは竹久氏からご提供いただきました。
+Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデータです。これらのデータは[竹久さま](https://github.com/aho1go)からご提供いただきました。
 + [Intel(R) RealSense(TM) D415・D435共通LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseD415_435-LEGO.stl)
 + [Intel(R) RealSense(TM) L515 LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseL515-LEGO.stl)
 
@@ -32,7 +32,7 @@ Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデー
   - VL53L0X-python: [https://github.com/pimoroni/VL53L0X-python](https://github.com/pimoroni/VL53L0X-python)
   - pigpio: [https://github.com/joan2937/pigpio](https://github.com/joan2937/pigpio)
 
-3.3節に掲載するサンプルプログラムは、次のとおりです。これらのプログラムは竹久氏からご提供いただきました。
+3.3節に掲載するサンプルプログラムは、次のとおりです。これらのプログラムは[竹久さま](https://github.com/aho1go)からご提供いただきました。
 + リスト3.5: [```LiDAR.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/LiDAR.py)
 + リスト3.8: [```polar.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/polar.py)
 + リスト3.10: [```radar.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/radar.py)
