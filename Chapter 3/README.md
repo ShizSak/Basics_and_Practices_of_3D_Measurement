@@ -5,7 +5,7 @@
 このフォルダに置いてあるプログラムは、次のとおりです。詳細については本文を参照してください。
 
 ## 3.2節
-+ [Intel RealSense L515 LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseL515-LEGO.stl)
++ [Intel RealSense D415・D435共通LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseD415_435-LEGO.stl)
 + [Intel RealSense L515 LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseL515-LEGO.stl)
 
 ## 3.3節
