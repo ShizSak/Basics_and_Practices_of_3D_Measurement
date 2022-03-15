@@ -27,10 +27,10 @@
   - VL53L0X-python: [https://github.com/pimoroni/VL53L0X-python](https://github.com/pimoroni/VL53L0X-python)
   - pigpio: [https://github.com/joan2937/pigpio](https://github.com/joan2937/pigpio)
 
-3.3節に掲載するサンプルプログラムは、次のとおりです（2022年3月12日現在未収録）。
-+ リスト3.5: ```LiDAR.py```
-+ リスト3.8: ```polar.py```
-+ リスト3.10: ```radar.py```
+3.3節に掲載するサンプルプログラムは、次のとおりです。
++ リスト3.5: [```LiDAR.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/LiDAR.py)
++ リスト3.8: [```polar.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/polar.py)
++ リスト3.10: [```radar.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/radar.py)
 
 ## 3.4節・3.5節
 3.4節・3.5節では次の機材を用いて3次元計測を行います。
