@@ -41,7 +41,7 @@ Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデー
 3.4節・3.5節では次の機材を用いて3次元計測を行います。
 
 + USB3インタフェース付きのPC
-+ Microsoft社 Azure Kinect DK（3次元計測装置）
++ Microsoft(R) Azure Kinect(TM) DK（3次元計測装置）
 
 次に、使用するOSやアプリケーションに加え、サンプルプログラムから直接呼び出すOSSを挙げています。なお、依存関係にあるOSSを追加でインストールする必要な場合があります。
 + Ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
