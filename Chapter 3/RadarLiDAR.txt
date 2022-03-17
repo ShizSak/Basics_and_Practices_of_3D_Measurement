@@ -1,6 +1,6 @@
 レーダ型LiDARの部品と入手先例一覧（2022年4月現在）
 
-Raspberry Pi Zero WH                [](https://www.switch-science.com/catalog/3646/)
+Raspberry Pi Zero WH                https://www.switch-science.com/catalog/3646/
                                     キット購入はhttps://www.switch-science.com/catalog/3561/
 Raspberry Pi Zero用ケース           https://www.switch-science.com/catalog/3596/
 TOFセンサモジュール（VL53L0X内蔵）  https://www.switch-science.com/catalog/5219/
