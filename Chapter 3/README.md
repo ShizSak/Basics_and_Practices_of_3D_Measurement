@@ -11,7 +11,6 @@ Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデー
 
 ## 3.3節
 3.3節では次の機材を用いて3次元計測を行います。
-
 + USBインタフェース付きのPC
 + Raspberry Pi Zero WH
 + ST micro VL53L0X（TOFチップ）が搭載されたTOFセンサ
@@ -36,6 +35,8 @@ Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデー
 + リスト3.5: [```LiDAR.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/LiDAR.py)
 + リスト3.8: [```polar.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/polar.py)
 + リスト3.10: [```radar.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/radar.py)
+
+なお、[竹久さま](https://github.com/aho1go)の部品入手先を、[```RadarLiDAR.txt```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RadarLiDAR.txt)に参考情報として記載しています。なお、記載情報はあくまでも2022年4月時点のものであることに留意してください。
 
 ## 3.4節・3.5節
 3.4節・3.5節では次の機材を用いて3次元計測を行います。
