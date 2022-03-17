@@ -1,4 +1,5 @@
-レーダ型LiDARの部品と入手先例一覧（2022年4月現在）
+竹久さまご提供：レーダ型LiDARの部品と入手先例一覧
+＃2022年4月現在。変化する可能性が高いことを鑑み、あえてプレーンテキスト形式としています。
 
 Raspberry Pi Zero WH                https://www.switch-science.com/catalog/3646/
                                     キット購入はhttps://www.switch-science.com/catalog/3561/
