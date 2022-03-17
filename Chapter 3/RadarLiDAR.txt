@@ -2,10 +2,10 @@
 ＃2022年4月現在。変化する可能性が高いことを鑑み、あえてプレーンテキスト形式としています。
 
 Raspberry Pi Zero WH                <https://www.switch-science.com/catalog/3646/>
-                                    キット購入はhttps://www.switch-science.com/catalog/3561/
-Raspberry Pi Zero用ケース           https://www.switch-science.com/catalog/3596/
-TOFセンサモジュール（VL53L0X内蔵）  https://www.switch-science.com/catalog/5219/
-サーボモータ M5Stack Servo Kit 180° https://www.switch-science.com/catalog/6478/
-Groveケーブル                       https://www.switch-science.com/catalog/1048/
-ジャンプワイヤケーブル              https://www.switch-science.com/catalog/2294/
+                                    キット購入は<https://www.switch-science.com/catalog/3561/>
+Raspberry Pi Zero用ケース           <https://www.switch-science.com/catalog/3596/>
+TOFセンサモジュール（VL53L0X内蔵）  <https://www.switch-science.com/catalog/5219/>
+サーボモータ M5Stack Servo Kit 180° <https://www.switch-science.com/catalog/6478/>
+Groveケーブル                       <https://www.switch-science.com/catalog/1048/>
+ジャンプワイヤケーブル              <https://www.switch-science.com/catalog/2294/>
 その他LEGOブロック
