@@ -5,7 +5,7 @@
 このフォルダに置いてあるプログラムとデータは、次のとおりです。詳細については本文を参照してください。
 
 ## 3.2節
-Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデータです。これらのデータは[竹久さま](https://github.com/aho1go)からご提供いただきました。3Dプリンタの精度はLEGOブロック製造における精度には及ばないために篏合で不具合がでる可能性がある、またバリ除去なども含めてプリント後に処理が必要になる可能性があることに留意して利用ください。
+Intel(R) RealSense(TM)のうち、D415・D435・L515用のLEGOマウントデータです。これらのデータは[竹久さま](https://github.com/aho1go)からご提供いただきました。なお、3Dプリンタのプリント精度はLEGOブロック製造における精度には及ばないために篏合で不具合がでる可能性がある、またバリ除去なども含めてプリント後に処理が必要になる可能性があることに留意して利用ください。
 + [Intel(R) RealSense(TM) D415・D435共通LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseD415_435-LEGO.stl)
 + [Intel(R) RealSense(TM) L515 LEGOマウント](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/RealsenseL515-LEGO.stl)
 
