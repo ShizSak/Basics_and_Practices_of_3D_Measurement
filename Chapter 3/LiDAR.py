@@ -13,8 +13,8 @@ class M5Servo180:
         self.pig = pigpio.pi()
         self.pin = pin
 
-    def move(self, rad):
-        spw = (rad/self.range_of_motion) * (self.max_pulse_width-self.min_pulse_width) + self.min_pulse_width
+    def move(self, theta):
+        spw = (theta/self.range_of_motion) * (self.max_pulse_width-self.min_pulse_width) + self.min_pulse_width
         self.pig.set_servo_pulsewidth(self.pin, spw)
 
     def stop(self):
