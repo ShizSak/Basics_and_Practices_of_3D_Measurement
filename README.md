@@ -9,7 +9,7 @@
 
 なお、3.2節のデータ及び3.3節のプログラムは、[竹久さま](https://github.com/aho1go)からご提供していただいています。
 
-# Basics of 3D Measurement ---Fundamentals and Practices of 3D Scanner and LiDAR---
+# 3D Measurement ---Fundamentals and Practices of 3D Scanner and LiDAR---
 ## to be released in June, 2022.
 ## Author: Shizuo Sakamoto, Issuer: Ohm Ltd.
 
