@@ -25,7 +25,7 @@
 このフォルダに置いてあるサンプルプログラムは、次のとおりです。詳細については本文を参照してください。
 
 ## 2.2節
-- リスト2.2: [```projection_of_mesh_pattern.cpp```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/3D_measurement.cpp)
+- リスト2.2: [```projection_of_mesh_pattern.cpp```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/projection_of_mesh_pattern.cpp)
 - リスト2.3: [```makefile```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/makefile)
 - リスト2.10: [```camera_setting_and_capturing.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/camera_setting_and_capturing.py)
 - リスト2.13: [```projection_of_grey_pattern.cpp```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/projection_of_grey_pattern.cpp)
