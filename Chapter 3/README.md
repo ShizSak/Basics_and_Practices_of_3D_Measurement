@@ -1,6 +1,6 @@
 # 第3章 LiDARを使って手軽に3次元計測実験
 ## 全体説明
-このフォルダには3章で説明した、3次元計測を行うためのサンプルプログラムを置いてあります。これらのプログラムはPythonで書かれており、OSSを活用しています。これらを動かすためには、必要なOSSを適宜インストールしてください。また、コラムでふれた、Intel(R) RealSense(TM)用のLEGOマウントデータも置いてあります。
+このフォルダには3章で説明した、3次元計測を行うためのサンプルプログラムを置いてあります。これらのプログラムはPythonで書かれており、OSSを活用しています。これらを動かすためには、必要なOSSを適宜インストールしてください。また、3.2節のコラムでふれた、Intel RealSense用のLEGOマウントデータも置いてあります。
 
 このフォルダに置いてあるプログラムとデータは、次のとおりです。詳細については本文を参照してください。
 
@@ -50,7 +50,7 @@ Intel RealSenseのうち、D415・D435・L515用のLEGOマウントデータで�
 + Open3D 0.13: [https://www.open3d.org/](https://www.open3d.org/)
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
-3.4節では掲載プログラムはありません。3.5節に掲載するサンプルプログラムは、次のとおりです。
+3.4節では掲載するサンプルプログラムはありません。3.5節に掲載するサンプルプログラムは、次のとおりです。
 + リスト3.22: [```extract_trajectory.py```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%203/extract_trajectory.py)
 
 以上
