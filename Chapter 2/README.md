@@ -21,6 +21,8 @@
 
 上に示したmatplotlib-cppには、次のURLにあるset_zlim()関数及びscatter3()関数追加パッチを適用する必要があります。
 + [https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot](https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter-Plot)
+パッチ適用後のファイルを、このフォルダに置いてあります。次から取得できます。
++ (パッチ適用後matplotlib-cpp.h)[https://github.com/ShizSak/Chapter%202/matplotlib-cpp.h]
 
 このフォルダに置いてあるサンプルプログラムは、次のとおりです。詳細については本文を参照してください。
 
