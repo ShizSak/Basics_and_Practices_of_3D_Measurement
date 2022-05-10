@@ -9,12 +9,6 @@
 
 なお、3.2節のコラムで紹介したデータ及び3.3節のプログラムは、[竹久さま](https://github.com/aho1go)からご提供していただいています。
 
-# 3D Measurement ---Fundamentals and Practices of 3D Scanner and LiDAR---
-## to be released on 3rd, June, 2022.
-## Author: Shizuo Sakamoto, Issuer: Ohm Ltd.
-
-Sorry for Japanese description only.
-
 ## 目次
 + 第1章 3次元計測技術の基礎
   - 1.1 カメラのみによる計測
@@ -35,3 +29,6 @@ Sorry for Japanese description only.
   - 4.2 アクティブ型三角測量の設計と開発
   - 4.3 TOFセンサ／LiDARの設計と開発
   - 4.4 将来の3次元計測技術
+
+## 正誤表
+2022年5月10日現在ではなし。
