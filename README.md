@@ -9,8 +9,22 @@
 
 なお、3.2節のコラムで紹介したデータ及び3.3節のプログラムは、[竹久さま](https://github.com/aho1go)からご提供していただいています。
 
+## 書誌情報
++ 出版社: オーム社 (2022/6/3)
++ 発売日: 2022/6/3
++ 言語: 日本語
++ 単行本: 232ページ
++ ISBN-10: 4274228827
++ ISBN-13: 978-4274228827
+
 ![表紙](https://github.com/ShizSak/Basics_and_Practices_of_3D_Measurement/blob/main/FrontCover.jpg)
 + [アマゾン](https://www.amazon.co.jp/exec/obidos/ASIN/4274228827)・[楽天ブックス](https://books.rakuten.co.jp/rb/17149148/)・[honto](https://honto.jp/netstore/pd-book_31677788.html)・[TSUTAYA](https://shop.tsutaya.co.jp/book/product/9784274228827/)・[紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784274228827)・[セブンネット](https://7net.omni7.jp/detail_isbn/9784274228827)・[Honya Club](https://www.honyaclub.com/shop/g/g20603252/)・[ヨドバシ](https://www.yodobashi.com/product/100000009003576230/)・[HMV](https://www.hmv.co.jp/artist_%E5%9D%82%E6%9C%AC%E9%9D%99%E7%94%9F_000000000900754/item_-%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B3%E6%AC%A1%E5%85%83%E8%A8%88%E6%B8%AC-3D%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A-LiDAR%E3%81%AE%E5%8E%9F%E7%90%86%E3%81%A8%E5%AE%9F%E8%B7%B5_12922023)・[版元ドットコム](https://www.hanmoto.com/bd/isbn/9784274228827)
+
+## 内容紹介
+3Dスキャナ、LiDARなどの3次元計測技術がゼロからわかる
+本書は、物理空間中にある物体の3次元形状を映像データとして取り込む技術である3次元計測技術について、読者の方々に手を動かしながら、その原理を理解してもらう本です。
+3次元計測技術を理解するために必要な知識を最初の一歩から順を追って解説しています。物体の3次元情報をコンピュータにインプットするためにはどういったことが必要なのか、そのためにはどのような方法が使われているのか、その数理モデルはどうやって導かれるのか、そして、簡単に実践してみるところまでを説明しています。
+本書にひととおり目を通し、実際に手を動かしてみることで、さまざまな場面で応用できる基礎力を養っていただけるはずです。
 
 ## 目次
 + 第1章 3次元計測技術の基礎
