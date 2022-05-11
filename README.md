@@ -9,6 +9,8 @@
 
 なお、3.2節のコラムで紹介したデータ及び3.3節のプログラムは、[竹久さま](https://github.com/aho1go)からご提供していただいています。
 
+![表紙](https://github.com/ShizSak/Basics_and_Practices_of_3D_Measurement/FrontCover.jpg)
+
 ## 目次
 + 第1章 3次元計測技術の基礎
   - 1.1 カメラのみによる計測
