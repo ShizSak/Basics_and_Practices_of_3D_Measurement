@@ -4,9 +4,9 @@
 Show a trajectory of the 3D scanner as result of integrating
 RGB-D data sequence.
 written by Shizuo Sakamoto as example in the book, titled as
-"Basics of 3D measurement", to be released by Ohmsha, Ltd.
+"Basics and Practices of 3D measurement" released by Ohmsha, Ltd.
 
-- version 1.00 on 1st, April, 2022.
+- version 1.00 on 6th, June, 2022.
   developed on Mouse Computer H5-CML, Ubuntu 20.04LTS,
   
 
