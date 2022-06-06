@@ -20,7 +20,7 @@
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
 なお、上記のmatplotlib-cppには、次のURLにあるset_zlim()関数及びscatter3()関数追加パッチを適用する必要があります。
-+ [https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot](https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter-Plot)
++ [https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot](https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot)
 
 パッチ適用後のファイルは、次から取得できます。
 + [パッチ適用後matplotlib-cpp.h](https://github.com/ShizSak/Basics_and_Practices_of_3D_Measurement/blob/main/Chapter%202/matplotlibcpp.h)
