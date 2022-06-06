@@ -1,6 +1,6 @@
 // Measure 3D shape by projecting sinusoidal patterns
-// written by Shizuo Sakamoto as example in the book, titled as "Basics and Practices of 3D measurement",
-// to be released by Ohmsha, Ltd.
+// written by Shizuo Sakamoto as example in the book, titled as "Basics and Practices of 3D measurement"
+// released by Ohmsha, Ltd.
 //
 // - version 1.00 on 6th, June, 2022.
 //   developed on Mouse Computer H5-CML, Ubuntu 20.04LTS.
