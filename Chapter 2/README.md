@@ -7,7 +7,7 @@
 
 このフォルダには3次元計測を行うためのc++またはPythonによるサンプルプログラムを置いています。これらのプログラムを動かすためには、いくつかのOSSをインストールする必要があります。
 
-使用するOSやアプリケーションの他、サンプルプログラムから直接呼び出すOSSを次に挙げます。これらが依存するOSSの追加インストールが、必要となる場合があります。
+使用するOSやアプリケーションの他、サンプルプログラムから直接呼び出すOSSを次に挙げます。これらが依存するOSSの追加インストールが必要となる場合があります。
 + Ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
 + Python 3.8: [https://www.python.org/](https://www.python.org/)
 + Numpy 1.21.1: [https://numpy.org/](https://numpy.org/)
