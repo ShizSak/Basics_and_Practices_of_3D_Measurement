@@ -5,9 +5,9 @@
 + HDMIインタフェース付きのプロジェクタ（HDMIではなくDisplayPortやDVIなどでも可、PCと合わせること）
 + UVCに対応する、USBインタフェース付きのカメラ
 
-このフォルダには3次元計測を行うためのサンプルプログラムを置いてあります。これらのプログラムはc++あるいはPythonで書かれており、OSSを活用しています。これらを動かすためには、必要なOSSを適宜インストールしてください。
+このフォルダには3次元計測を行うためのc++またはPythonによるサンプルプログラムを置いています。これらのプログラムを動かすためには、いくつかのOSSをインストールする必要があります。
 
-次に、使用するOSやアプリケーションとともに、サンプルプログラムから直接呼び出すOSSを挙げています。なお、依存関係にあるOSSを追加でインストールする必要な場合があります。
+使用するOSやアプリケーションの他、サンプルプログラムから直接呼び出すOSSを次に挙げます。これらが依存するOSSの追加インストールが、必要となる場合があります。
 + Ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
 + Python 3.8: [https://www.python.org/](https://www.python.org/)
 + Numpy 1.21.1: [https://numpy.org/](https://numpy.org/)
@@ -19,13 +19,13 @@
 + boost 1.77.0: [https://www.boost.org/](https://www.boost.org/)
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
-上に示したmatplotlib-cppには、次のURLにあるset_zlim()関数及びscatter3()関数追加パッチを適用する必要があります。
+なお、上記のmatplotlib-cppには、次のURLにあるset_zlim()関数及びscatter3()関数追加パッチを適用する必要があります。
 + [https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot](https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter-Plot)
 
-パッチ適用後のファイルを、このフォルダに置いてあります。次から取得できます。
+パッチ適用後のファイルは、次から取得できます。
 + (パッチ適用後matplotlib-cpp.h)[https://github.com/ShizSak/Chapter%202/matplotlib-cpp.h]
 
-このフォルダに置いてあるサンプルプログラムは、次のとおりです。詳細については本文を参照してください。
+2章掲載のサンプルプログラムは次の通りです。詳細については本文を参照してください。
 
 ## 2.2節
 - リスト2.2: [```projection_of_mesh_pattern.cpp```](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/projection_of_mesh_pattern.cpp)
