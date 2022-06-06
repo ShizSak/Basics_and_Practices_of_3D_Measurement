@@ -23,7 +23,7 @@
 + [https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter_Plot](https://github.com/ShizSak/matplotlib-cpp_with_3D_Scatter-Plot)
 
 パッチ適用後のファイルは、次から取得できます。
-+ [パッチ適用後matplotlib-cpp.h](https://github.com/ShizSak/Basics_of_3D_Measurement/blob/main/Chapter%202/matplotlib-cpp.h)
++ [パッチ適用後matplotlib-cpp.h](https://github.com/ShizSak/Basics_and_Practices_of_3D_Measurement/blob/main/Chapter%202/matplotlibcpp.h)
 
 2章掲載のサンプルプログラムは次の通りです。詳細については本文を参照してください。
 
