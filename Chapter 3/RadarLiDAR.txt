@@ -1,11 +1,14 @@
 竹久さまご提供：レーダ型LiDARの部品と入手先例一覧
-＃2022年4月現在。変化する可能性が高いことを鑑み、あえてプレーンテキスト形式としています。
+＃2022年5月現在。このような部品類はURLが変化する可能性が高いことから、あえてプレーンテキスト形式としています。
+＃購入する際には、部品が望むものかどうかよく確認してください。
 
-Raspberry Pi Zero WH                <https://www.switch-science.com/catalog/3646/>
-                                    スターターキットは<https://www.switch-science.com/catalog/3561/>
-Raspberry Pi Zero用ケース           <https://www.switch-science.com/catalog/3196/>
-TOFセンサモジュール（VL53L0X内蔵）  <https://www.switch-science.com/catalog/5219/>
+Raspberry Pi Zero WH <https://www.switch-science.com/catalog/3646/>
+　スターターキットは<https://www.switch-science.com/catalog/3561/>
+Raspberry Pi Zero用ケース <https://www.switch-science.com/catalog/3196/>
+TOFセンサモジュール（VL53L0X内蔵） <https://www.switch-science.com/catalog/5219/>
 サーボモータ M5Stack Servo Kit 180° <https://www.switch-science.com/catalog/6478/>
-Groveケーブル                       <https://www.switch-science.com/catalog/1048/>
-ジャンプワイヤケーブル              <https://www.switch-science.com/catalog/2294/>
-その他LEGOブロック                 （省略）
+Groveケーブル <https://www.switch-science.com/catalog/1048/>
+ジャンプワイヤケーブル <https://www.switch-science.com/catalog/2294/>
+その他LEGOブロック （省略）
+
+以上
