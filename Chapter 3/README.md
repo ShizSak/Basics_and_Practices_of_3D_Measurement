@@ -47,7 +47,7 @@ PC上で使用するOSやアプリケーションに加え、サンプルプロ�
 使用するOSやアプリケーションに加え、サンプルプログラムから直接呼び出すOSSを次に挙げます。これらが依存するOSSの追加インストールが必要となる場合があります。
 + Ubuntu Desktop 20.04LTS: [https://jp.ubuntu.com/](https://jp.ubuntu.com/)
 + Python 3.8: [https://www.python.org/](https://www.python.org/)
-+ Open3D 0.13: [https://www.open3d.org/](https://www.open3d.org/)
++ Open3D 0.13: [http://www.open3d.org/](http://www.open3d.org/)
 + MeshLab 2021.07: [https://www.meshlab.net/](https://www.meshlab.net/)
 
 3.4節では掲載するサンプルプログラムはありません。3.5節に掲載するサンプルプログラムは次の通りです。
