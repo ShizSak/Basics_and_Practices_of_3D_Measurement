@@ -19,7 +19,6 @@
 + →[オーム社の書籍ページ](https://www.ohmsha.co.jp/book/9784274228827/)
 
 ![表紙](https://github.com/ShizSak/Basics_and_Practices_of_3D_Measurement/blob/main/FrontCover.jpg)
-+ [アマゾン](https://www.amazon.co.jp/exec/obidos/ASIN/4274228827)・[楽天ブックス](https://books.rakuten.co.jp/rb/17149148/)・[honto](https://honto.jp/netstore/pd-book_31677788.html)・[TSUTAYA](https://shop.tsutaya.co.jp/book/product/9784274228827/)・[紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784274228827)・[セブンネット](https://7net.omni7.jp/detail_isbn/9784274228827)・[Honya Club](https://www.honyaclub.com/shop/g/g20603252/)・[ヨドバシ](https://www.yodobashi.com/product/100000009003576230/)・[HMV](https://www.hmv.co.jp/artist_%E5%9D%82%E6%9C%AC%E9%9D%99%E7%94%9F_000000000900754/item_-%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B3%E6%AC%A1%E5%85%83%E8%A8%88%E6%B8%AC-3D%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8A-LiDAR%E3%81%AE%E5%8E%9F%E7%90%86%E3%81%A8%E5%AE%9F%E8%B7%B5_12922023)・[版元ドットコム](https://www.hanmoto.com/bd/isbn/9784274228827)
 
 ## 内容紹介
 3Dスキャナ、LiDARなどの3次元計測技術がゼロからわかる
