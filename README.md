@@ -54,6 +54,7 @@
 + 2022年6月8日
   - 複数個所: 「Ubuntu」→「ubuntu」
   - 複数個所: 「Raspberry Pi zero WH」→「Raspberry Pi Zero WH」
+  - p.148 図3.18: 2つの吹き出しと図中のメニューの位置がずれている（吹き出し位置をもう少し下に移動）
   - p.157 (2)冒頭: 「続けてI<sup>2</sup>CとSPIにもとづく…」→「続けてI<sup>2</sup>Cにもとづく…」
   - p.190 上から3行目: 「具体的にいうと，Dense SLAMGUIのほうが，」→「具体的にいうと，DenseSLAMGUIのほうが，」（スペースを削除）
   - p.208 ＜海外＞リスト: 「PIMONORI」→「PIMORONI」
