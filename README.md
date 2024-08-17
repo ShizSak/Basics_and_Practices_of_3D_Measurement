@@ -71,6 +71,9 @@
 ## 正誤表（第1版第2刷）
 + （なし）
 
+# 書評
++ 五十嵐：図書紹介「ゼロからわかる3次元計測 3Dスキャナ，LiDARの原理と実践」, [画像電子学会誌 図書紹介, Vol.51, No.3, p.233 (2022)](https://www.iieej.org/journal/iieej-vol-51-no-3/)
+
 # 参考情報
 + 坂本：6-4 3Dスキャナ(3D入力装置), [画像電子学会誌 特集画像電子年報 6装置動向, Vol.50, No.1, p.100-101 (2021)](https://www.iieej.org/journal/iieej-vol-50-no-1/).
 + 坂本：6-4 3Dスキャナ(3D入力装置), [画像電子学会誌 特集画像電子年報 6装置動向, Vol.52, No.1, p.102-103 (2023)](https://www.iieej.org/journal/iieej-vol-52-no-1/).
