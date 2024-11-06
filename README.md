@@ -72,7 +72,7 @@
 + 2024年11月6日（読者の方よりご指摘いただきました。ありがとうございます）
   - p.17 図1.17: キャプション1行目、「$`ZNCC_1(x_0^R,x_1^R) + \frac{ZNCC_2(x_0^R,x_2^R)}{2}`$」→「$`\frac{1}{2}[ZNCC_1(x_0^R,x_1^R) + ZNCC_2(x_0^R,x_2^R)]`$」
   - p.17 図1.17: キャプション2行目、「$`d_1(x_0^P)=\frac{ZNCC_2(x_0^R,x_2^R)}{2}`$」→「$`d_1(x_0^P)=\frac{d_2(x_0^P)}{2}`$」
-  - p.43 式(1.50): $`f(t) = \frac{1}{2 \pi}(2 \pi f_c + 2 \alpha t^2) = f_c + \frac{\alpha t^2}{\pi}`$ → $`f(t) = \frac{1}{2 \pi}(2 \pi f_c + 2 \alpha t) = f_c + \frac{\alpha t}{\pi}`$
+  - p.43 式(1.50): 「$`f(t) = \frac{1}{2 \pi}(2 \pi f_c + 2 \alpha t^2) = f_c + \frac{\alpha t^2}{\pi}`$」 → 「$`f(t) = \frac{1}{2 \pi}(2 \pi f_c + 2 \alpha t) = f_c + \frac{\alpha t}{\pi}`$」
 
 # 書評
 + 五十嵐：図書紹介「ゼロからわかる3次元計測 3Dスキャナ，LiDARの原理と実践」, [画像電子学会誌 図書紹介, Vol.51, No.3, p.233 (2022)](https://www.iieej.org/journal/iieej-vol-51-no-3/)
